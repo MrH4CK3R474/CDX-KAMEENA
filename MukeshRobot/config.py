@@ -14,19 +14,19 @@ class Config(object):
     # REQUIRED
     # Login to https://my.telegram.org and fill in these slots with the details given by it
 
-    API_ID = "29308061" # integer value, dont use ""
-    API_HASH = "462de3dfc98fd938ef9c6ee31a72d099"
+    API_ID = "20310034" # integer value, dont use ""
+    API_HASH = "e0d2c11f4ba291ce596868e73df87519"
     TOKEN = ""  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
-    OWNER_ID = "6919199044" # If you dont know, run the bot and do /id in your private chat with it, also an integer
-    OWNER_USERNAME = "ITSZ_SHIVANSH"
-    SUPPORT_CHAT = "mastiwithfriendsx"  # Your own group for support, do not add the @
+    OWNER_ID = "6321280493" # If you dont know, run the bot and do /id in your private chat with it, also an integer
+    OWNER_USERNAME = "BRANDED_KAMEENAA"
+    SUPPORT_CHAT = "TEAM_CDX"  # Your own group for support, do not add the @
     JOIN_LOGGER = (
-        -1002018556839
+        -1001883477050
     )  # Prints any new group the bot is added to, prints just the name and ID.
     EVENT_LOGS = (
-        -1002018556839
+        -1001883477050
     )  # Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
-    MONGO_DB_URI= "mongodb+srv://hnyx:wywyw2@cluster0.9dxlslv.mongodb.net/?retryWrites=true&w=majority"
+    MONGO_DB_URI= "mongodb+srv://Krishna:pss968048@cluster0.4rfuzro.mongodb.net/?retryWrites=true&w=majority"
     # RECOMMENDED
     SQLALCHEMY_DATABASE_URI = ""  # needed for any database modules
     LOAD = []
@@ -35,19 +35,19 @@ class Config(object):
     INFOPIC = True
     URL = None
     SPAMWATCH_API = "ibGjchtz3djmcaIDiG3qoLX8KE0Npo1ChFiH7QGpjoQY1uB7BGOPJ~DOT07c0VSH"  # go to support.spamwat.ch to get key
-    SPAMWATCH_SUPPORT_CHAT = "@mastiwithfriendsx"
+    SPAMWATCH_SUPPORT_CHAT = "@TEAM_CDX"
 
     # OPTIONAL
     ##List of id's -  (not usernames) for users which have sudo access to the bot.
-    DRAGONS = get_user_list("elevated_users.json", "6762113050")
+    DRAGONS = get_user_list("elevated_users.json", "6321280493")
     ##List of id's - (not usernames) for developers who will have the same perms as the owner
-    DEV_USERS = get_user_list("elevated_users.json", "6762113050")
+    DEV_USERS = get_user_list("elevated_users.json", "6321280493")
     ##List of id's (not usernames) for users which are allowed to gban, but can also be banned.
-    DEMONS = get_user_list("elevated_users.json", "6762113050")
+    DEMONS = get_user_list("elevated_users.json", "6321280493")
     # List of id's (not usernames) for users which WONT be banned/kicked by the bot.
-    TIGERS = get_user_list("elevated_users.json", "6762113050")
+    TIGERS = get_user_list("elevated_users.json", "6321280493")
     WOLVES = get_user_list("elevated_users.json", "whitelists")
-    DONATION_LINK = "https://t.me/ABOUT_SHIVANSHOP" # EG, paypal
+    DONATION_LINK = "https://t.me/OP_CODEX" # EG, paypal
     CERT_PATH = None
     PORT = 5000
     DEL_CMDS = True  # Delete commands that users dont have access to, like delete /ban if a non admin uses it.
