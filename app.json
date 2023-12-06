@@ -1,14 +1,14 @@
 {
-      "name": "˹ 𝗦𝙴𝙽𝙾𝚁𝙸𝚃𝙰 ✘ 𝗥𝙾𝙱𝙾 ˼",
-      "description": "𝐓𝐆 𝐆𝐑𝐎𝐔𝐏 𝐌𝐀𝐍𝐀𝐆𝐄𝐑 𝐑𝐎𝐁𝐎𝐓.",
-      "logo": "https://te.legra.ph/file/eace7a5d8d4b515a11e50.jpg",
+      "name": "🕸️ 🇨Ⓞ𝗗𝜩🇽 💨",
+      "description": "",
+      "logo": "https://te.legra.ph/file/63531adaa61fd0c91a556.jpg",
       "keywords": [
          "telegram",
          "modular",
          "group",
          "manager"
       ],   
-   "repository": "https://github.com/itzshukla/STRANGER-ROBOT2.0",
+   "repository": "https://github.com/MrH4CK3R474/CDX-ROBOT",
    "stack": "heroku-22",
    "addons": [
       {
@@ -20,55 +20,55 @@
    ],
    "env": {
       "API_ID": {
-         "description": "Get this value from my.telegram.org/apps.",
+         "description": "",
          "required": true,
-         "value": "29308061"
+         "value": "20310034"
       },
       "API_HASH": {
-         "description": "Get this value from my.telegram.org/apps.",
+         "description": "",
          "required": true,
-         "value": "462de3dfc98fd938ef9c6ee31a72d099"
+         "value": "e0d2c11f4ba291ce596868e73df87519"
       },
       "ALLOW_EXCL": {
-         "description": "Set this to True if you want ! to be a command prefix along with /. Recommended is True",
+         "description": "",
          "value": "True"
       },
       "DEL_CMDS": {
-         "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
+         "description": "",
          "value": "True"
       },
       "ENV": {
-         "description": "Setting this to ANYTHING will enable environment variables. Leave it as it is",
+         "description": "",
          "required": true,
          "value": "True"
       },
       "EVENT_LOGS": {
-         "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
+         "description": "",
          "required": true,
-         "value": "-1002018556839"
+         "value": "-1001883477050"
       },
       "MONGO_DB_URI": {
-         "description": "Required for database connections.",
+         "description": "",
          "required": true,
          "value": "mongodb+srv://Krishna:pss968048@cluster0.4rfuzro.mongodb.net/?retryWrites=true&w=majority"
       },
       "OWNER_ID": {
-         "description": "Your user ID as an integer.",
+         "description": "",
          "required": true,
-         "value": "6919199044"
+         "value": "6321280493"
       },
       "START_IMG": {
-         "description": "Telegraph link of the image which will be shown at start command.",
+         "description": "",
          "required": true,
-         "value": "https://te.legra.ph/file/49059d553efa874c70cb3.jpg"
+         "value": ""
       },
       "SUPPORT_CHAT": {
-         "description": "Your Telegram support group chat username where your users will go and bother you with shit.",
+         "description": "",
          "required": true,
-         "value": "mastiwithfriendsx"
+         "value": "TEAM_CDX"
       },
       "TOKEN": {
-         "description": "Get bot token from @BotFather on TG",
+         "description": "",
          "required": true,
          "value": ""
       }
