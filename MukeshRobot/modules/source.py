@@ -20,21 +20,21 @@ async def repo(client, message):
 
 ╔═════ஜ۩۞۩ஜ════╗
 
- ❁❁𝗠𝗔𝗗𝗘 𝗕𝗬[𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥](https://t.me/ABOUT_SHIVANSHOP)❁❁
+ ❁❁𝗠𝗔𝗗𝗘 𝗕𝗬[𝐊𝐀𝐌𝐄𝐄𝐍𝐀](https://t.me/BRANDED_KAMEENAA)❁❁
   
 ╚═════ஜ۩۞۩ஜ════╝
 
-**[𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥 𝗥𝗢𝗕𝗢𝗧](t.me/{dispatcher.bot.username}) sᴏᴜʀᴄᴇ ɪs ɴᴏᴡ ᴩᴜʙʟɪᴄ ᴀɴᴅ ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴍᴀᴋᴇ ʏᴏᴜʀ ᴏᴡɴ ʙᴏᴛ.**
+**[𝗖𝗢𝗗𝗘𝗫 𝗥𝗢𝗕𝗢𝗧](t.me/{dispatcher.bot.username}) sᴏᴜʀᴄᴇ ɪs ɴᴏᴡ ᴩᴜʙʟɪᴄ ᴀɴᴅ ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴍᴀᴋᴇ ʏᴏᴜʀ ᴏᴡɴ ʙᴏᴛ.**
 """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "❁ᴏᴡɴᴇʀ❁",f"tg://user?id={OWNER_ID}"
+                        "❁𝗖𝗢𝗗𝗘𝗫❁",f"tg://user?id={OWNER_ID}"
                     ),
                     InlineKeyboardButton(
-                        "❁ʀᴇᴘᴏ❁",
-                        url="https://t.me/ABOUT_SHIVANSHOP",
+                        "❁𝐊𝐀𝐌𝐄𝐄𝐍𝐀❁",
+                        url="https://t.me/BRANDED_KAMEENAA",
                     ),
                 ]
             ]
