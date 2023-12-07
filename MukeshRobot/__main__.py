@@ -401,8 +401,8 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                             text="✯𝐊𝐀𝐌𝐄𝐄𝐍𝐀✯", url=f"https://t.me/BRANDED_KAMEENAA"
                         ),
                         InlineKeyboardButton(
-                            text="✯𝐑𝐄𝐏𝐎✯", 
-                            url="https://t.me/ABOUT_SHIVANSHOP",
+                            text="✯𝐐𝐔𝐄𝐄𝐍✯", 
+                            url="https://t.me/BRANDED_QUEENN",
                         ),
                     ],
                     [
