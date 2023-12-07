@@ -54,9 +54,9 @@ async def restart(client, m: Message):
     await asyncio.sleep(0.8)
     await m.reply_photo(
         lol,
-        caption=f"""**ʜᴇʏ, ɪ ᴀᴍ 『˹ 𝗦𝙴𝙽𝙾𝚁𝙸𝚃𝙰 ✘ 𝗥𝙾𝙱𝙾 ˼』
+        caption=f"""**ʜᴇʏ, ɪ ᴀᴍ 『˹ 𝗣𝙸𝙷𝚄 ✘ 𝗥𝙾𝙱𝙾 ˼』
    ━━━━━━━━━━━━━━━━━━━
-  » ᴍʏ ᴏᴡɴᴇʀ : [ᴏᴡɴᴇʀ](https://t.me/ITSZ_SHIVANSH)
+  » ᴍʏ ᴏᴡɴᴇʀ : [ᴏᴡɴᴇʀ](https://t.me/TEAM_CDX)
   » ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ : 13.15
   » ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : 1.32.0
   » ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ : 2.0.106
@@ -70,4 +70,4 @@ __help__ = """
 *ᴜsᴇʀ ᴄᴏᴍᴍᴀɴᴅs*:
 » /alive*:* ᴛᴏ ᴄʜᴇᴀᴋ ❓  ɪ ᴀᴍ ᴀʟɪᴠᴇ ᴏʀ ɴᴏᴛ?
 
-☆............𝙱𝚈 » [𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥](https://t.me/ITSZ_SHIVANSH)............☆"""
+☆............𝙱𝚈 » [𝐊𝐀𝐌𝐄𝐄𝐍𝐀](https://t.me/BRANDED_KAMEENAA)............☆"""
