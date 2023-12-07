@@ -77,7 +77,7 @@ __help__ = """
  ❍ /purge  <ɪɴᴛᴇɢᴇʀ x>*:* ᴅᴇʟᴇᴛᴇs ᴛʜᴇ ʀᴇᴘʟɪᴇᴅ ᴍᴇssᴀɢᴇ, ᴀɴᴅ x ᴍᴇssᴀɢᴇs ғᴏʟʟᴏᴡɪɴɢ ɪᴛ ɪғ ʀᴇᴘʟɪᴇᴅ ᴛᴏ ᴀ ᴍᴇssᴀɢᴇ.
 
 
-☆............𝙱𝚈 » [𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥](https://t.me/ITSZ_SHIVANSH)............☆"""
+☆............𝙱𝚈 » [𝐊𝐀𝐌𝐄𝐄𝐍𝐀](https://t.me/BRANDED_KAMEENAA)............☆"""
 
 PURGE_HANDLER = purge_messages, events.NewMessage(pattern="^[!/]purge$")
 DEL_HANDLER = delete_messages, events.NewMessage(pattern="^[!/]del$")
