@@ -60,7 +60,7 @@
       "START_IMG": {
          "description": "",
          "required": true,
-         "value": ""
+         "value": "https://telegra.ph/file/ec45361883fd5fa0120d8.jpg"
       },
       "SUPPORT_CHAT": {
          "description": "",
