@@ -1,5 +1,5 @@
 {
-      "name": "🕸️ 🇨Ⓞ𝗗𝜩🇽 💨",
+      "name": "˹ 🕸️ 🇨Ⓞ𝗗𝜩🇽 💨 ˼",
       "description": "",
       "logo": "https://te.legra.ph/file/63531adaa61fd0c91a556.jpg",
       "keywords": [
@@ -8,7 +8,8 @@
          "group",
          "manager"
       ],   
-   "repository": "https://github.com/MrH4CK3R474/CDX-ROBOT",
+   "repository":
+"https://github.com/MrH4CK3R474/CDX-ROBOT",
    "stack": "heroku-22",
    "addons": [
       {
@@ -71,6 +72,6 @@
          "description": "",
          "required": true,
          "value": ""
-      },
+      }
    }
 }
