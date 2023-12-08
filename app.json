@@ -70,7 +70,7 @@
       "TOKEN": {
          "description": "",
          "required": true,
-         "value": "",
+         "value": ""
       }
    }
 }
