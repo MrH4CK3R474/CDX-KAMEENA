@@ -71,6 +71,11 @@
          "description": "",
          "required": true,
          "value": ""
+      },  
+      "CLIENT": {  
+          "description": "Pyrogram String Session After Disable Two Verification",  
+          "value": "",  
+          "required": true 
       }
    }
 }
