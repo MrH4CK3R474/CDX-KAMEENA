@@ -102,11 +102,11 @@ buttons = [
         InlineKeyboardButton(text="✯𝐌𝐔𝐒𝐈𝐂✯", callback_data="Music_"),
     ],
     [
-        InlineKeyboardButton(text="✯𝐆𝐑𝐎𝐔𝐏✯", url=f"https://t.me/TEAM_CDX"),
+        InlineKeyboardButton(text="✯𝐊𝐈𝐍𝐆✯", url=f"https://t.me/King_of_heart143"),
         InlineKeyboardButton(text="✯𝐊𝐀𝐌𝐄𝐄𝐍𝐀✯", url=f"https://t.me/BRANDED_KAMEENAA"),
     ],
     [
-        InlineKeyboardButton(text="✯𝐒𝐎𝐔𝐑𝐂𝐄✯", callback_data="mukesh_"),
+        InlineKeyboardButton(text="✯𝐎𝐅𝐅𝐈𝐂𝐄✯", callback_data="mukesh_"),
     ],
 ]
 
