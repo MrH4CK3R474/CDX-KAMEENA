@@ -82,12 +82,9 @@ PM_START_TEXT = """
 ✪✪ 𝑊𝐸𝐿𝐶𝑂𝑀𝐸 ✪✪
 
  ✪  ɪ ᴀᴍ {}  
-
- ๏  ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘs!
-ʜɪᴛ ʜᴇʟᴘ ᴛᴏ ғɪɴᴅ ᴏᴜᴛ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍᴇ ɪɴ ᴍʏ ғᴜʟʟ ᴘᴏᴛᴇɴᴛɪᴀʟ!
 ➻ ᴛʜᴇ ᴍᴏsᴛ ᴩᴏᴡᴇʀғᴜʟ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴩ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ  ➕ ᴍᴜsɪᴄ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴀɴᴅ ɪ ʜᴀᴠᴇ sᴏᴍᴇ ᴀᴡᴇsᴏᴍᴇ ᴀɴᴅ ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs.
 ─────────────────
-      ✪[𝐀𝐧𝐲 𝐓𝐲𝐩𝐞 𝐎𝐟 𝐇𝐞𝐥𝐩](https://t.me/TEAM_CDX)✪ 
+      ✪[KAMEENA](https://t.me/BRANDED_KAMEENAA)✪ 
 """
 
 buttons = [
@@ -102,7 +99,7 @@ buttons = [
         InlineKeyboardButton(text="✯𝐌𝐔𝐒𝐈𝐂✯", callback_data="Music_"),
     ],
     [
-        InlineKeyboardButton(text="✯𝐊𝐈𝐍𝐆✯", url=f"https://t.me/King_of_heart143"),
+        InlineKeyboardButton(text="✯𝐆𝐑𝐎𝐔𝐏 ✯", url=f"https://t.me/TEAM_CDX"),
         InlineKeyboardButton(text="✯𝐊𝐀𝐌𝐄𝐄𝐍𝐀✯", url=f"https://t.me/BRANDED_KAMEENAA"),
     ],
     [
