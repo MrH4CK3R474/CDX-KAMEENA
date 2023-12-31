@@ -169,7 +169,7 @@ async def mentionall(event):
         return await event.respond("𝐎𝐧𝐥𝐲 𝐀𝐝𝐦𝐢𝐧 𝐂𝐚𝐧 𝐌𝐞𝐧𝐭𝐢𝐨𝐧 𝐓𝐨 𝐀𝐥𝐥 𝐁𝐚𝐛𝐲...")
 
     if event.pattern_match.group(1) and event.is_reply:
-        return await event.respond("/tagall hello 👈 𝐓𝐲𝐩𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬 𝐍𝐞𝐱𝐭 𝐓𝐢𝐦𝐞 𝐎𝐤 𝐅𝐨𝐫 𝐓𝐚𝐠𝐠𝐢𝐧𝐠..")
+        return await event.respond("/tagall hello 👈 𝐄𝐒𝐄 𝐋𝐈𝐊𝐇𝐎 𝐌𝐀𝐃𝐇𝐀𝐑𝐂𝐇𝐎𝐃 🍁")
     elif event.pattern_match.group(1):
         mode = "text_on_cmd"
         msg = event.pattern_match.group(1)
@@ -178,11 +178,11 @@ async def mentionall(event):
         msg = await event.get_reply_message()
         if msg == None:
             return await event.respond(
-                "/tagall hii 👈 𝐓𝐲𝐩𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬 𝐎𝐫 𝐑𝐞𝐩𝐥𝐲 𝐀𝐧𝐲 𝐌𝐞𝐬𝐬𝐚𝐠𝐞..."
+                "/tagall hii 👈 𝐄𝐒𝐄 𝐋𝐈𝐊𝐇𝐎 𝐌𝐀𝐃𝐇𝐀𝐑𝐂𝐇𝐎𝐃 🍁."
             )
     else:
         return await event.respond(
-            "/tagall hii 👈 𝐓𝐲𝐩𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬 𝐎𝐫 𝐑𝐞𝐩𝐥𝐲 𝐀𝐧𝐲 𝐌𝐞𝐬𝐬𝐚𝐠𝐞..."
+            "/tagall hii 👈 𝐄𝐒𝐄 𝐋𝐈𝐊𝐇𝐎 𝐌𝐀𝐃𝐇𝐀𝐑𝐂𝐇𝐎𝐃 🍁"
 
         )
 
@@ -235,7 +235,7 @@ async def cancel_spam(event):
             spam_chats.remove(event.chat_id)
         except:
             pass
-        return await event.respond("♦𝗥𝗢𝗞 𝗗𝗜𝗬𝗔 𝗠𝗔𝗗𝗛𝗔𝗥𝗖𝗛𝗢𝗗♦")
+        return await event.respond("♦ 𝗥𝗢𝗞 𝗞𝗘 𝗔𝗨𝗞𝗔𝗧 𝗗𝗜𝗞𝗛𝗔 𝗗𝗜𝗬𝗔 😒")
 
 
 __mod_name__ = "✯Tᴀɢ✯"
