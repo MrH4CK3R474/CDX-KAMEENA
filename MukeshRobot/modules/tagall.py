@@ -235,7 +235,7 @@ async def cancel_spam(event):
             spam_chats.remove(event.chat_id)
         except:
             pass
-        return await event.respond("♦ 𝗥𝗢𝗞 𝗞𝗘 𝗔𝗨𝗞𝗔𝗧 𝗗𝗜𝗞𝗛𝗔 𝗗𝗜𝗬𝗔 😒")
+        return await event.respond("✦ ──『✙ 𝗥𝗢𝗞 𝗞𝗘 𝗔𝗨𝗞𝗔𝗧 𝗗𝗜𝗞𝗛𝗔 𝗗𝗜𝗬𝗔 ✙』── ✦")
 
 
 __mod_name__ = "✯Tᴀɢ✯"
